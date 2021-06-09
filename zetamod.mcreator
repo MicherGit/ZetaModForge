@@ -1,0 +1,262 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Shitass",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shitass"
+    },
+    {
+      "name": "Keystone",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone"
+    },
+    {
+      "name": "KeystoneGem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_gem"
+    },
+    {
+      "name": "KeystoneGemOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_gem_ore"
+    },
+    {
+      "name": "KeystoneGemBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_gem_block"
+    },
+    {
+      "name": "KeystoneGemOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_gem_ore_block_recipe"
+    },
+    {
+      "name": "KeystoneGemBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_gem_block_ore_recipe"
+    },
+    {
+      "name": "KeystoneGemOreSmelting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_gem_ore_smelting"
+    },
+    {
+      "name": "EtherialPickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_pickaxe"
+    },
+    {
+      "name": "EtherialAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_axe"
+    },
+    {
+      "name": "EtherialSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_sword"
+    },
+    {
+      "name": "EtherialShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_shovel"
+    },
+    {
+      "name": "EtherialHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_hoe"
+    },
+    {
+      "name": "EtherialPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_pickaxe_recipe"
+    },
+    {
+      "name": "EtherialAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_axe_recipe"
+    },
+    {
+      "name": "EtherialSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_sword_recipe"
+    },
+    {
+      "name": "EtherialShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_shovel_recipe"
+    },
+    {
+      "name": "EtherialHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_hoe_recipe"
+    },
+    {
+      "name": "EtherialArmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EtherialArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_armor_helmet_recipe"
+    },
+    {
+      "name": "EtherialArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_armor_body_recipe"
+    },
+    {
+      "name": "EtherialArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_armor_leggings_recipe"
+    },
+    {
+      "name": "EtherialArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.zetamod.etherial_armor_leggings": "Etherial Leggings",
+      "block.zetamod.keystone_gem_ore": "KeystoneGem Ore",
+      "item.zetamod.etherial_armor_chestplate": "Etherial Chestplate",
+      "item.zetamod.etherial_shovel": "Etherial Shovel",
+      "item.zetamod.etherial_hoe": "Etherial Hoe",
+      "item.zetamod.etherial_pickaxe": "Etherial Pickaxe",
+      "item.zetamod.shitass_spawn_egg": "Shitass Spawn Egg",
+      "entity.zetamod.shitass": "Shitass",
+      "item.zetamod.keystone": "Keystone",
+      "item.zetamod.etherial_sword": "Etherial Sword",
+      "item.zetamod.keystone_gem": "KeystoneGem",
+      "item.zetamod.etherial_armor_boots": "Etherial Boots",
+      "item.zetamod.etherial_axe": "Etherial Axe",
+      "block.zetamod.keystone_gem_block": "Block of KeystoneGem",
+      "item.zetamod.etherial_armor_helmet": "Etherial Helmet"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "zetamod",
+    "modName": "ZetaMod",
+    "version": "1.0.0",
+    "author": "micha, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "zeta.zetamod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

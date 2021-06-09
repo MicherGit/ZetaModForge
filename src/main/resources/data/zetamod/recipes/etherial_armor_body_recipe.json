@@ -1,0 +1,39 @@
+{
+  "group": "zetamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "zetamod:keystone_gem"
+    },
+    "2": {
+      "item": "zetamod:keystone_gem"
+    },
+    "3": {
+      "item": "zetamod:keystone_gem"
+    },
+    "4": {
+      "item": "zetamod:keystone_gem"
+    },
+    "5": {
+      "item": "zetamod:keystone_gem"
+    },
+    "6": {
+      "item": "zetamod:keystone_gem"
+    },
+    "7": {
+      "item": "zetamod:keystone_gem"
+    },
+    "8": {
+      "item": "zetamod:keystone_gem"
+    }
+  },
+  "result": {
+    "item": "zetamod:etherial_armor_chestplate",
+    "count": 1
+  }
+}

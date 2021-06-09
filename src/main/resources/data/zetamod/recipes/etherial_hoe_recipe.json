@@ -1,0 +1,27 @@
+{
+  "group": "zetamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zetamod:keystone_gem"
+    },
+    "1": {
+      "item": "zetamod:keystone_gem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zetamod:etherial_hoe",
+    "count": 1
+  }
+}

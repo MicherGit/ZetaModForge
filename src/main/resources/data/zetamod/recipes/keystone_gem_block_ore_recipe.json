@@ -1,0 +1,13 @@
+{
+  "group": "zetamod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zetamod:keystone_gem_block"
+    }
+  ],
+  "result": {
+    "item": "zetamod:keystone_gem",
+    "count": 9
+  }
+}
