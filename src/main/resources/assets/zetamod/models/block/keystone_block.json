@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zetamod:blocks/keystone_block",
+    "up": "zetamod:blocks/keystone_block",
+    "north": "zetamod:blocks/keystone_block",
+    "east": "zetamod:blocks/keystone_block",
+    "south": "zetamod:blocks/keystone_block",
+    "west": "zetamod:blocks/keystone_block",
+    "particle": "zetamod:blocks/keystone_block"
+  }
+}

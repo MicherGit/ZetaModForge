@@ -3,11 +3,17 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "zetamod:keystone_gem_block"
+      "item": "zetamod:keystone"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:iron_ingot"
     }
   ],
   "result": {
     "item": "zetamod:keystone_gem",
-    "count": 9
+    "count": 1
   }
 }

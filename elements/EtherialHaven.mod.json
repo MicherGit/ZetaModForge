@@ -1,0 +1,57 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "river"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "swamp"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.VOID_AIR"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:KeystoneBlock"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 1,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Infused Keystone",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "keystonegem_gem",
+    "portalTexture": "keystonegem_ore_block",
+    "enablePortal": true
+  }
+}

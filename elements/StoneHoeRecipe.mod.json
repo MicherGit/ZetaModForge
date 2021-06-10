@@ -10,37 +10,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": "CUSTOM:EtherialStone"
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": "CUSTOM:EtherialStone"
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": ""
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": ""
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": "Items.STICK"
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": ""
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": ""
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": "Items.STICK"
       },
       {
-        "value": "CUSTOM:KeystoneGem"
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:KeystoneGemBlock"
+      "value": "CUSTOM:StoneHoe"
     },
-    "name": "keystone_gem_ore_block_recipe",
+    "name": "stone_hoe_recipe",
     "namespace": "mod"
   }
 }

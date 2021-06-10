@@ -1,6 +1,7 @@
 
 package zeta.zetamod.block;
 
+import zeta.zetamod.world.dimension.EtherialHavenDimension;
 import zeta.zetamod.item.KeystoneGemItem;
 import zeta.zetamod.ZetamodModElements;
 
@@ -73,6 +74,8 @@ public class KeystoneGemOreBlock extends ZetamodModElements.ModElement {
 					boolean dimensionCriteria = false;
 					if (dimensionType == DimensionType.OVERWORLD)
 						dimensionCriteria = true;
+					if (dimensionType == EtherialHavenDimension.type)
+						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
 					return super.place(world, generator, rand, pos, config);
@@ -82,7 +85,7 @@ public class KeystoneGemOreBlock extends ZetamodModElements.ModElement {
 				if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
-			}), block.getDefaultState(), 4)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(7, 1, 1, 43))));
+			}), block.getDefaultState(), 4)).withPlacement(Placement.COUNT_RANGE.configure(new CountRangeConfig(1, 1, 1, 10))));
 		}
 	}
 }

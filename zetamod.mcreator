@@ -38,33 +38,6 @@
       "registry_name": "keystone_gem_ore"
     },
     {
-      "name": "KeystoneGemBlock",
-      "type": "block",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "keystone_gem_block"
-    },
-    {
-      "name": "KeystoneGemOreBlockRecipe",
-      "type": "recipe",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "keystone_gem_ore_block_recipe"
-    },
-    {
-      "name": "KeystoneGemBlockOreRecipe",
-      "type": "recipe",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "keystone_gem_block_ore_recipe"
-    },
-    {
       "name": "KeystoneGemOreSmelting",
       "type": "recipe",
       "sortid": 8,
@@ -213,6 +186,135 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "etherial_armor_boots_recipe"
+    },
+    {
+      "name": "EtherialHaven",
+      "type": "dimension",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_haven",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "KeystoneEtherial",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_etherial"
+    },
+    {
+      "name": "KeystoneBlock",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "keystone_block"
+    },
+    {
+      "name": "EtherialStone",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "etherial_stone"
+    },
+    {
+      "name": "StonePickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_pickaxe"
+    },
+    {
+      "name": "StoneAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_axe"
+    },
+    {
+      "name": "StoneSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_sword"
+    },
+    {
+      "name": "StoneShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_shovel"
+    },
+    {
+      "name": "StoneHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_hoe"
+    },
+    {
+      "name": "StonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_pickaxe_recipe"
+    },
+    {
+      "name": "StoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_axe_recipe"
+    },
+    {
+      "name": "StoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_sword_recipe"
+    },
+    {
+      "name": "StoneShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_shovel_recipe"
+    },
+    {
+      "name": "StoneHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_hoe_recipe"
     }
   ],
   "variable_elements": [],
@@ -221,18 +323,25 @@
     "en_us": {
       "item.zetamod.etherial_armor_leggings": "Etherial Leggings",
       "block.zetamod.keystone_gem_ore": "KeystoneGem Ore",
+      "item.zetamod.stone_shovel": "Stone Shovel",
       "item.zetamod.etherial_armor_chestplate": "Etherial Chestplate",
+      "block.zetamod.etherial_stone": "Etherial Stone",
       "item.zetamod.etherial_shovel": "Etherial Shovel",
+      "item.zetamod.stone_pickaxe": "Stone Pickaxe",
       "item.zetamod.etherial_hoe": "Etherial Hoe",
       "item.zetamod.etherial_pickaxe": "Etherial Pickaxe",
       "item.zetamod.shitass_spawn_egg": "Shitass Spawn Egg",
       "entity.zetamod.shitass": "Shitass",
+      "item.zetamod.stone_axe": "Stone Axe",
       "item.zetamod.keystone": "Keystone",
       "item.zetamod.etherial_sword": "Etherial Sword",
       "item.zetamod.keystone_gem": "KeystoneGem",
+      "block.zetamod.keystone_block": "Keystone Block",
+      "item.zetamod.etherial_haven": "Infused Keystone",
       "item.zetamod.etherial_armor_boots": "Etherial Boots",
+      "item.zetamod.stone_sword": "Stone Sword",
       "item.zetamod.etherial_axe": "Etherial Axe",
-      "block.zetamod.keystone_gem_block": "Block of KeystoneGem",
+      "item.zetamod.stone_hoe": "Stone Hoe",
       "item.zetamod.etherial_armor_helmet": "Etherial Helmet"
     }
   },

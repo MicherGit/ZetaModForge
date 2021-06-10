@@ -1,5 +1,5 @@
 {
-  "parent": "zetamod:block/keystone_gem_block",
+  "parent": "zetamod:block/keystone_block",
   "display": {
     "thirdperson": {
       "rotation": [

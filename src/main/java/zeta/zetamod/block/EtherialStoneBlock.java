@@ -4,7 +4,6 @@ package zeta.zetamod.block;
 import zeta.zetamod.ZetamodModElements;
 
 import net.minecraftforge.registries.ObjectHolder;
-import net.minecraftforge.common.ToolType;
 
 import net.minecraft.world.storage.loot.LootContext;
 import net.minecraft.item.ItemStack;
@@ -20,11 +19,11 @@ import java.util.List;
 import java.util.Collections;
 
 @ZetamodModElements.ModElement.Tag
-public class KeystoneGemBlockBlock extends ZetamodModElements.ModElement {
-	@ObjectHolder("zetamod:keystone_gem_block")
+public class EtherialStoneBlock extends ZetamodModElements.ModElement {
+	@ObjectHolder("zetamod:etherial_stone")
 	public static final Block block = null;
-	public KeystoneGemBlockBlock(ZetamodModElements instance) {
-		super(instance, 5);
+	public EtherialStoneBlock(ZetamodModElements instance) {
+		super(instance, 27);
 	}
 
 	@Override
@@ -35,9 +34,8 @@ public class KeystoneGemBlockBlock extends ZetamodModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(5f, 10f).lightValue(0).harvestLevel(3)
-					.harvestTool(ToolType.PICKAXE));
-			setRegistryName("keystone_gem_block");
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).lightValue(0));
+			setRegistryName("etherial_stone");
 		}
 
 		@Override

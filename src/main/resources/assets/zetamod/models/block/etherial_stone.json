@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zetamod:blocks/etherial_stone",
+    "up": "zetamod:blocks/etherial_stone",
+    "north": "zetamod:blocks/etherial_stone",
+    "east": "zetamod:blocks/etherial_stone",
+    "south": "zetamod:blocks/etherial_stone",
+    "west": "zetamod:blocks/etherial_stone",
+    "particle": "zetamod:blocks/etherial_stone"
+  }
+}

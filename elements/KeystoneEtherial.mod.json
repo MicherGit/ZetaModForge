@@ -5,24 +5,24 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 9,
+    "recipeRetstackSize": 1,
     "group": "",
     "recipeShapeless": true,
     "recipeSlots": [
       {
-        "value": ""
+        "value": "CUSTOM:Keystone"
+      },
+      {
+        "value": "Items.DIAMOND"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Items.IRON_INGOT"
       },
       {
         "value": ""
-      },
-      {
-        "value": "CUSTOM:KeystoneGemBlock"
       },
       {
         "value": ""
@@ -40,7 +40,7 @@
     "recipeReturnStack": {
       "value": "CUSTOM:KeystoneGem"
     },
-    "name": "keystone_gem_block_ore_recipe",
+    "name": "keystone_etherial",
     "namespace": "mod"
   }
 }

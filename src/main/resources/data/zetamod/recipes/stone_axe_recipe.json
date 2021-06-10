@@ -1,0 +1,30 @@
+{
+  "group": "zetamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "zetamod:etherial_stone"
+    },
+    "1": {
+      "item": "zetamod:etherial_stone"
+    },
+    "2": {
+      "item": "zetamod:etherial_stone"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "zetamod:stone_axe",
+    "count": 1
+  }
+}

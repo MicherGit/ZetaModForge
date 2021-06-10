@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "zetamod:block/etherial_haven_portal_ew"
+    },
+    "axis=x": {
+      "model": "zetamod:block/etherial_haven_portal_ns"
+    }
+  }
+}
